@@ -6,7 +6,7 @@ from colorama import Fore
 recognizer = sr.Recognizer()
 CurrentLanguage = "ja"
 
-""""""
+"""
 english: en
 Japanese:ja
 Korean:ko
